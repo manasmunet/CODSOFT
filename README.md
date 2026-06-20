@@ -13,9 +13,9 @@ It includes three core components:
 
 Technical Stack:
   
-   HTML5
+   HTML
   
-   CSS3 (Responsive Design)
+   CSS (Responsive Design)
    
     JavaScript
 
