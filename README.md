@@ -11,7 +11,7 @@ It includes three core components:
       
        3. Interactive Calculator: A functional JavaScript-based calculator featuring CSS grid-based alignment and logical operator handling.
 
-Technical Stack:
+Language Used:
   
    HTML
   
